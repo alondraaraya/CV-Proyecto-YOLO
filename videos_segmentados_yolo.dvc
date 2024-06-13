@@ -1,0 +1,6 @@
+outs:
+- md5: 6b68f67c94345d60b31e108ba9cc4b4a.dir
+  size: 37857298
+  nfiles: 2
+  hash: md5
+  path: videos_segmentados_yolo
